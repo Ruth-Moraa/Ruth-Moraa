@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruth-Moraa
 - 👀 I’m interested in Bioinformatics|Data Science|Evolutionary genetics|Microbiology
-- 🌱 I’m currently working on sex chromosome determination and population genetics in termites
+- I’m currently working on sex chromosome determination and population genetics in termites
 
 
 <!---
